@@ -1,9 +1,9 @@
 import React from 'react'
 
-export const JournalScreen = () => {
+export const hola = () => {
     return (
         <div>
-            <h1>Hola desde jouuur</h1>
+            <h1>hoka</h1>
         </div>
     )
 }
