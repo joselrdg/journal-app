@@ -18,7 +18,7 @@ export const LoginScreen = () => {
           placeholder="Password"
           name="password"
         />
-        <button type="submit">Login</button>
+        <button className='btn btn-primary' disabled={true} type="submit">Login</button>
         <hr />
         <div className="auth__social-networks">
           <p>Login with social networks</p>
